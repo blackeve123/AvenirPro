@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import './base.css';
+
+@theme {
+  --color-avenir-blue: #1E3A8A;
+  --color-avenir-orange: #F97316;
+  --color-avenir-gray: #F8FAFC;
+  --font-sans: "Inter", sans-serif;
+}

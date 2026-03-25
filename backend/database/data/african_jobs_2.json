@@ -1,0 +1,196 @@
+[
+  {
+    "category": "Énergies Renouvelables",
+    "title": "Ingénieur en Biomasse / Méthanisation",
+    "description": "Transforme les déchets agricoles et urbains abondants en biogaz pour l'électricité et la cuisson, remplaçant le charbon de bois.",
+    "sector": "Énergie verte",
+    "salary_range": "400k - 1.2M FCFA/mois",
+    "riasec_types": ["R", "I"],
+    "image_path": "https://loremflickr.com/800/600/africa,biomass,agriculture",
+    "steps": [
+      { "title": "Licence en Génie Énergétique Environnemental", "description": "Maîtrise de la thermodynamique et des cycles biochimiques.", "duration": "3 ans" },
+      { "title": "Master en Valorisation des Déchets", "description": "Apprentissage des techniques de compostage et méthanisation.", "duration": "2 ans" }
+    ]
+  },
+  {
+    "category": "Commerce",
+    "title": "Courtier en Assurance (Micro-Assurance)",
+    "description": "Distribue des produits d'assurance santé ou agricole à très bas coût (via mobile) pour le secteur informel et les paysans.",
+    "sector": "Assurance / Finance",
+    "salary_range": "200k - 800k FCFA/mois",
+    "riasec_types": ["E", "C", "S"],
+    "image_path": "https://loremflickr.com/800/600/africa,insurance,market",
+    "steps": [
+      { "title": "BTS Assurance ou Banque", "description": "Compréhension des risques, primes et contrats.", "duration": "2 ans" },
+      { "title": "Licence Pro en Commercialisation de Produits Financiers", "description": "Acquisition de techniques de vente adaptées au terrain.", "duration": "1 an" }
+    ]
+  },
+  {
+    "category": "Tech",
+    "title": "Spécialiste en Inclusion Financière (Agent Bancaire)",
+    "description": "Déploie et gère les réseaux de kiosques (Agents) qui permettent aux populations non bancarisées de faire des dépôts et retraits.",
+    "sector": "Fintech / Operations",
+    "salary_range": "250k - 900k FCFA/mois",
+    "riasec_types": ["E", "S", "C"],
+    "image_path": "https://loremflickr.com/800/600/africa,kiosk,money",
+    "steps": [
+      { "title": "Licence en Économie ou Gestion", "description": "Stratégie de distribution et microéconomie.", "duration": "3 ans" },
+      { "title": "Gestion du Cash et Logistique", "description": "Savoir approvisionner les agents en monnaie électronique/physique.", "duration": "Sur le tas" }
+    ]
+  },
+  {
+    "category": "Arts et Création",
+    "title": "Journaliste Web / Blogueur (Fact-Checker)",
+    "description": "Lutte contre les fake news souvent virales lors des élections, et produit des enquêtes pour les médias en ligne d'investigation.",
+    "sector": "Médias / Journalisme",
+    "salary_range": "150k - 600k FCFA/mois",
+    "riasec_types": ["A", "I", "S"],
+    "image_path": "https://loremflickr.com/800/600/africa,journalist,interview",
+    "steps": [
+      { "title": "École de Journalisme (CESTI, ESSTIC)", "description": "Éthique, déontologie, et techniques d'investigation.", "duration": "3 ans" },
+      { "title": "Formation aux outils de vérification Open Source (OSINT)", "description": "Maîtrise de la recherche inversée d'images et analyse de données.", "duration": "1 mois" }
+    ]
+  },
+  {
+    "category": "Santé",
+    "title": "Agent de Santé Communautaire (ASC)",
+    "description": "Fait le pont entre les hôpitaux et les communautés reculées, distibuant des vaccins, moustiquaires et éduquant sur l'hygiène.",
+    "sector": "Santé de Proximité",
+    "salary_range": "100k - 300k FCFA/mois",
+    "riasec_types": ["S", "R"],
+    "image_path": "https://loremflickr.com/800/600/africa,community,health",
+    "steps": [
+      { "title": "Niveau Bac ou BEPC exigé", "description": "Savoir lire et écrire correctement dans les langues locales.", "duration": "Général" },
+      { "title": "Formation accélérée du Ministère de la Santé", "description": "Premiers secours, reconnaissance des symptômes (paludisme, choléra).", "duration": "3-6 mois" }
+    ]
+  },
+  {
+    "category": "Agriculture",
+    "title": "Spécialiste de la Chaîne du Froid (Logistique Agricole)",
+    "description": "Met en place des entrepôts frigorifiques à énergie solaire pour empêcher que les récoltes de légumes ne pourrissent avant la vente.",
+    "sector": "Agritech / Logistique",
+    "salary_range": "300k - 1M FCFA/mois",
+    "riasec_types": ["R", "C"],
+    "image_path": "https://loremflickr.com/800/600/africa,cool,storage",
+    "steps": [
+      { "title": "BTS Froid et Climatisation", "description": "Gérer les gaz réfrigérants et compresseurs.", "duration": "2 ans" },
+      { "title": "Spécialisation en logistique agroalimentaire", "description": "Comprendre les normes de conservation des fruits et viandes.", "duration": "1 an" }
+    ]
+  },
+  {
+    "category": "Informatique",
+    "title": "Ingénieur DevOps (Infrastructures Locales)",
+    "description": "Automatise les déploiements logiciels et maintient les serveurs de production pour les startups locales malgré la faible bande passante.",
+    "sector": "Tech / IT",
+    "salary_range": "700k - 2M FCFA/mois",
+    "riasec_types": ["C", "I", "R"],
+    "image_path": "https://loremflickr.com/800/600/africa,developer,screen",
+    "steps": [
+      { "title": "Licence en Informatique Fondamentale", "description": "Compréhension profonde des OS (Linux) et Réseaux.", "duration": "3 ans" },
+      { "title": "Maîtrise de Docker, Kubernetes et CI/CD", "description": "Apprentissage des standards de l'industrie pour le Web moderne.", "duration": "2 ans" }
+    ]
+  },
+  {
+    "category": "Commerce",
+    "title": "Trader de Cryptomonnaies (Peer-to-Peer)",
+    "description": "Facilite l'envoi de fonds par la diaspora et permet aux entreprises d'acheter des fournisseurs étrangers via la blockchain (USDT, Bitcoin).",
+    "sector": "Finance Décentralisée",
+    "salary_range": "Variable",
+    "riasec_types": ["E", "C", "I"],
+    "image_path": "https://loremflickr.com/800/600/africa,crypto,phone",
+    "steps": [
+      { "title": "Autodidacte en Analyse Financière", "description": "Lecture des graphiques, compréhension des réseaux blockchain.", "duration": "Variable" },
+      { "title": "Compréhension de la régulation KYC/AML locale", "description": "Obligatoire pour éviter les fraudes.", "duration": "Continu" }
+    ]
+  },
+  {
+    "category": "Éducation",
+    "title": "Concepteur de Modules E-Learning",
+    "description": "Crée des cours par SMS, messages vocaux ou vidéos compressées pour l'éducation des travailleurs ruraux et étudiants isolés.",
+    "sector": "EdTech",
+    "salary_range": "250k - 800k FCFA/mois",
+    "riasec_types": ["A", "I", "S"],
+    "image_path": "https://loremflickr.com/800/600/africa,student,laptop",
+    "steps": [
+      { "title": "Licence en Pédagogie ou Ingénierie de Formation", "description": "Comprendre comment le cerveau adulte apprend.", "duration": "3 ans" },
+      { "title": "Maîtrise des outils de création digitale", "description": "Outils interactifs (Articulate, H5P) et montage vidéo.", "duration": "1 an" }
+    ]
+  },
+  {
+    "category": "Arts et Création",
+    "title": "Animateur 3D (Studios de Jeux Africains)",
+    "description": "Modélise des personnages, environnements et mythes africains (ex: Leti Arts, Kiro'o Games) pour l'industrie florissante du jeu vidéo.",
+    "sector": "Jeux Vidéo / 3D",
+    "salary_range": "300k - 1.2M FCFA/mois",
+    "riasec_types": ["A", "I", "R"],
+    "image_path": "https://loremflickr.com/800/600/africa,3d,animation",
+    "steps": [
+      { "title": "École de Multimédia ou d'Art Numérique", "description": "Apprentissage de Maya, Blender, Zbrush.", "duration": "3 ans" },
+      { "title": "Spécialisation Moteur Graphique (Unity/Unreal)", "description": "Pour intégrer les assets au code.", "duration": "1 an" }
+    ]
+  },
+  {
+    "category": "Agriculture",
+    "title": "Formateur en Agro-écologie",
+    "description": "Enseigne aux paysans comment restaurer les sols dégradés et se passer des engrais chimiques hors de prix.",
+    "sector": "Environnement / Éducation",
+    "salary_range": "200k - 700k FCFA/mois",
+    "riasec_types": ["S", "R", "I"],
+    "image_path": "https://loremflickr.com/800/600/africa,planting,group",
+    "steps": [
+      { "title": "Licence en Sciences de l'Environnement", "description": "Étude des biomes et de la permaculture.", "duration": "3 ans" },
+      { "title": "Projets sur le terrain avec les ONG", "description": "Pratique de l'agroforesterie et gestion de l'eau.", "duration": "2 ans" }
+    ]
+  },
+  {
+    "category": "Tech",
+    "title": "Développeur Logiciel Embarqué (IoT)",
+    "description": "Programme les puces et capteurs utilisés pour la surveillance des cultures, compteurs d'eau prépayés ou trackers solaires.",
+    "sector": "Électronique / IT",
+    "salary_range": "600k - 2M FCFA/mois",
+    "riasec_types": ["I", "R", "C"],
+    "image_path": "https://loremflickr.com/800/600/africa,iot,electronics",
+    "steps": [
+      { "title": "Ingénieur en Systèmes Embarqués ou Informatique Industrielle", "description": "Langages de bas niveau : C, C++, Assembleur.", "duration": "5 ans" },
+      { "title": "Prototypage Arduino / Raspberry Pi", "description": "Création des premiers circuits imprimés (PCB).", "duration": "Continu" }
+    ]
+  },
+  {
+    "category": "Santé",
+    "title": "Nutritionniste Spécialisé en Maladies Métaboliques",
+    "description": "Prend en charge les cas de diabète et d'hypertension dus au changement radical de régime alimentaire dans les très grandes villes africaines.",
+    "sector": "Consultation Médicale",
+    "salary_range": "300k - 1M FCFA/mois",
+    "riasec_types": ["S", "I"],
+    "image_path": "https://loremflickr.com/800/600/africa,nutritionist,diet",
+    "steps": [
+      { "title": "Diplôme universitaire en Nutrition / Diététique", "description": "Spécialisation sur les aliments locaux (Ignames, Mil, Sorgho, Manioc).", "duration": "3 ans" },
+      { "title": "Hôpital ou Clinique Privée", "description": "Suivi patient et prescription de régimes thérapeutiques.", "duration": "Pratique" }
+    ]
+  },
+  {
+    "category": "Commerce",
+    "title": "Consultant en Marché Public",
+    "description": "Aide les PME locales à monter des appels d'offres solides pour remporter les gros contrats de l'État (routes, hôpitaux, fournitures).",
+    "sector": "Juridique / Business",
+    "salary_range": "500k - 2.5M FCFA/mois",
+    "riasec_types": ["E", "C"],
+    "image_path": "https://loremflickr.com/800/600/africa,office,contract",
+    "steps": [
+      { "title": "Master en Droit des Affaires ou Gestion", "description": "Maîtrise du code des marchés publics de la zone UEMOA/CEMAC.", "duration": "5 ans" },
+      { "title": "Expérience en cabinet de conseil", "description": "Création réseau et apprentissage de la rigueur administrative.", "duration": "3 ans" }
+    ]
+  },
+  {
+    "category": "Énergies Renouvelables",
+    "title": "Inspecteur des Réseaux Électriques Intelligents",
+    "description": "Traque les pertes d'énergie, les branchements clandestins et optimise les transformateurs électriques via des outils logiciels.",
+    "sector": "Tech Énergie",
+    "salary_range": "450k - 1.5M FCFA/mois",
+    "riasec_types": ["R", "C", "I"],
+    "image_path": "https://loremflickr.com/800/600/africa,electrical,poles",
+    "steps": [
+      { "title": "Diplôme d'ingénieur en Électrotechnique", "description": "Dimensionnement et calcul des flux haute/moyenne tension.", "duration": "5 ans" }
+    ]
+  }
+]
